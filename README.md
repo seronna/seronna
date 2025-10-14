@@ -5,11 +5,6 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF75C&center=true&vCenter=true&width=435&lines=Console.log(Hello+World!))](https://git.io/typing-svg)
-
-</div>
-
-###
-
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://blog.paimona.top/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
@@ -17,6 +12,9 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=seronna&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seronna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
