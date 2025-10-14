@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF75C&center=true&vCenter=true&width=435&lines=Console.log(Hello+World!))](https://git.io/typing-svg)
+
 </div>
 
 ###
